@@ -21,4 +21,4 @@ The app needs FFmpeg separately. The easiest method on Windows is WinGet:
 
 The converter can use NVIDIA NVENC when available and otherwise falls back to CPU encoding. An NVIDIA GPU is optional.
 
-This public repository contains the packaged app download only. The Python source is kept in a separate private repository.
+This public repository contains the packaged app download only.
